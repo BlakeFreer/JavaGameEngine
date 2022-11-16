@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Scene.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Component.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Renderers/Animator.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/MainPackage/Main.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/MainPackage/GameData.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Renderers/RectangleRenderer.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Renderers/AnimationClip.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/Editor/TileMapCreator.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Transform.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Camera.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/Engine/GameMath/Mathf.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Colliders/Collider.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/Engine/GameMath/Vector2.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/MainPackage/InputManager.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/MainPackage/ContentScreen.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/Engine/Physics2D/Physics.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/_Unused/PlayerMovement.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/_Unused/EventSystems/EventManagerGE.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/GameObject.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/_Unused/EventSystems/EventListenerGE.java</file>
+            <file>file:/C:/Users/bkfre/Desktop/School%20-%20Grade%2012/ICS%204U/Final%20Project/GameEngine/src/GameObjects/Components/Renderers/Renderer.java</file>
+        </group>
+    </open-files>
+</project-private>
